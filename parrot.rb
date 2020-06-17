@@ -1,6 +1,6 @@
 def parrot
 puts "Squawk!"
 return "Squawk!"
-parrot = "Pretty bird!"
+'parrot' = "Pretty bird!"
 
 end
